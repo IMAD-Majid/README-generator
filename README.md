@@ -44,7 +44,7 @@ If you have run out of energy or time for your project, put a note at the top of
 
 
 ## Installation
-Use and download from [MakeReadMe](https://makereadme.netlify.app)
+Use and download from [MakeSimpleReadMe](https://makesimplereadme.netlify.app)
 
 ## Project status
 Project developement completed.
