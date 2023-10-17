@@ -1,0 +1,17 @@
+{
+    "name": "MakeReadMe",
+    "short_name": "README",
+    "description": "Simple README generator",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  

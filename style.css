@@ -1,0 +1,52 @@
+*{
+    background-color: black;
+    color:#ddd;
+    font-family: sans-serif;
+}
+
+body{
+    width:100%;
+    max-width: 100%;
+    padding:2em 20em;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 8em;
+    box-sizing: border-box;
+}
+
+button{
+    border: 1px solid grey;
+    padding: 1em;
+    background-color: greenyellow;
+    width:100%;
+    color:black;
+    font-weight: bold;
+    font-family: consolas;
+}
+
+input {
+    width: 100%;
+    font-size: 150%;
+    padding: 0.5em;
+    box-sizing: border-box;
+    margin:1rem 0;
+    border: 1px solid grey;
+}
+
+textarea{
+    min-width:100%;
+    max-width: 100%;
+    min-height:8em;
+    font-size: 100%;
+    padding: 0.5em 1em;
+    display: block;
+    box-sizing: border-box;
+}
+textarea#readme{
+    height:90vh;
+}
+
+select{
+    padding: 1em;
+    display: block;
+}
