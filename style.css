@@ -5,9 +5,9 @@
 }
 
 body{
-    width:100%;
+    width:50em;
     max-width: 100%;
-    padding:2em 20em;
+    padding:0 2em;
     margin: 0 auto;
     margin-top: 2em;
     margin-bottom: 8em;
