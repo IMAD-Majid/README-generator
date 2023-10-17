@@ -41,6 +41,9 @@ For open source projects, say how it is licensed.
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 ```
 ## Visuals
+![Capture](https://github.com/IMAD-Majid/README-generator/assets/137281672/7207e0e6-e85e-4c78-a092-28900f1a0acd)
+
+![Capture](https://github.com/IMAD-Majid/README-generator/assets/137281672/ccb3fd91-658c-4127-bbff-d7fe7d7c24df)
 
 
 ## Installation
